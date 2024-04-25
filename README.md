@@ -1,8 +1,8 @@
 - 👋 Meu nome é Marjori Klinczak
 - 👀 Estou interessada em desenvolvimento web e mobile, blockchain, cryptos e ciência de dados
 - 🌱 Atualmente estou fazendo meu Doutorado em Gestão da Informação pela UFPR
-- 💞️ Busco projetos em código aberto e blockchain
-- 📫 mklinczak@gmail.com
+- 💞️ Projetos em geral
+- 📫 contato@mosaicweb.com.br
 - 😄 Ela/ she/ he/ она
 - ⚡ Tenho 4 dogs e 1 gato: Dime, Olivia, Arlo, Donna e Vittorio
 
