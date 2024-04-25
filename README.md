@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou fazendo meu Doutorado em Gestão da Informação pela UFPR
 - 💞️ Projetos em geral
 - 📫 contato@mosaicweb.com.br
-- 😄 Ela/ she/ he/ она
+- 😄 Ela/ she/ her/ она
 - ⚡ Tenho 4 dogs e 1 gato: Dime, Olivia, Arlo, Donna e Vittorio
 
 <!---
